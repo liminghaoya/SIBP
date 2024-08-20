@@ -1,6 +1,6 @@
 ## SIBP: Self-Inspecting Backdoor Purification through Adaptive Identification of Suspicious Neurons
 
-![image-20240819163642397](C:\Users\93966\AppData\Roaming\Typora\typora-user-images\image-20240819163642397.png)
+![image-20240819163642397](https://github.com/liminghaoya/SIBP/blob/main/data/pipline.jpg)
 
 SIBP is a backdoor defence method based on the observation that some neurons in an infected DNN are maliciously activated during training, with different activation changes in different branches.SIBP considers de-poisoning from a more latent layer of neuron poisoning, and we don't need to know the type of attack, and it is effective for both visible trigger backdoor attacks and invisible trigger backdoor attacks, and it maintains the classification accuracy of the original model. SIBP is a backdoor defence method based on the observation that some neurons in an infected DNN are maliciously activated during training, with different activation changes in different branches.SIBP considers de-poisoning from a more latent layer of neuron poisoning, and we don't need to know the type of attack, and it is effective for both visible trigger backdoor attacks and invisible trigger backdoor attacks, and maintains the classification accuracy of the original model. accuracy of the original model.
 
